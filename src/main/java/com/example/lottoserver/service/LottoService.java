@@ -60,6 +60,7 @@ public class LottoService {
                 .ranking(ranking)
                 .matchedNumbers(matchedNumbers)
                 .unmatchedNumbers(unmatchedNumbers)
+                .sentNumbers(numbers)
                 .build();
     }
 
